@@ -1,2 +1,2 @@
 FROM redhat/ubi9
-RUN install nginx-y
+RUN install nginx -y
