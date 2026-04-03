@@ -4,3 +4,4 @@ FROM almalinux:9
 LABEL maintainer="bhanudevops"\
         DURATION="24h"\
         DESCRIPTION="Nginx server on Almalinux"
+        author="bhanudevops"\
